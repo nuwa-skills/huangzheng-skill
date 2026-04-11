@@ -5,9 +5,8 @@
 > "我们关注的是中国最广大人群的最基本需求。"
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude_Code-Skill-blue.svg)](https://github.com/anthropics/claude-code)
-[![Nuwa](https://img.shields.io/badge/Nuwa-Skill_Framework-purple.svg)](https://github.com/anthropics/nuwa)
-
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 **像黄峥一样思考：用第一性原理穿透消费本质、以本分精神做反直觉决策、关注被忽视的大多数。**
 
 </div>
@@ -118,12 +117,12 @@ huangzheng-skill/
 
 更多人物 Skill 请查看 [Awesome 女娲.skill](https://github.com/Panmax/awesome-nuwa)。
 
-## 许可证
-
-[MIT](LICENSE)
-
 ---
 
 <div align="center">
-  <sub>Built with Nuwa skill framework for Claude Code</sub>
+
+MIT License
+
+Made with [女娲.skill](https://github.com/alchaincyf/nuwa-skill)
+
 </div>
