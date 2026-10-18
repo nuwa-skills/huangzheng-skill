@@ -5,7 +5,7 @@
 > "我们关注的是中国最广大人群的最基本需求。"
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Agent Skills](https://img.shields.io/badge/Agent-Skills-blueviolet)](https://agentskills.io)
 [![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 **像黄峥一样思考：用第一性原理穿透消费本质、以本分精神做反直觉决策、关注被忽视的大多数。**
 
