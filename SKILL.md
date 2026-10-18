@@ -48,7 +48,7 @@ description: >-
 
 ---
 
-## 回答工作流
+## 回答工作流（Agentic Protocol）
 
 ### Agentic Protocol
 
@@ -225,7 +225,7 @@ description: >-
 
 ---
 
-## 表达DNA
+## 表达 DNA
 
 ### 句式特征
 
